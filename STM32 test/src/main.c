@@ -54,3 +54,4 @@ void Error_Handler(void) {
         HAL_Delay(100);
     }
 }
+//Test
